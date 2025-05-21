@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reportgeneration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reportgeneration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\archivedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\archivedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\archivedorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\archivedorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\archivedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\archivedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\orders.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\orders.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\revenue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\revenue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|c:\\users\\user\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75AC905-E9E2-4D65-82BD-69ECCDD16FE5}|ecomm_track_edp_proj\\ecomm_track_edp_proj.csproj|solutionrelative:ecomm_track_edp_proj\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reset.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Reset.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Reset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:31:32.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportGeneration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ReportGeneration.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ReportGeneration.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:16:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Welcome.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Welcome.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Welcome.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Welcome.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:48:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reset.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Reset.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Reset.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowHoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:34:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reset.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Reset.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Reset.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Reset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:32:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Welcome.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Welcome.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Welcome.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:42:15.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ReportGeneration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ReportGeneration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:16:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportGeneration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ReportGeneration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ReportGeneration.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ReportGeneration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:13:46.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:42:23.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Dashboard.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwKIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:44:59.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArchivedOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ArchivedOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:03:15.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArchivedOrders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ArchivedOrders.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:03:47.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Users.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:06:58.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArchivedOrders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\ArchivedOrders.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\ArchivedOrders.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\ArchivedOrders.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:04:20.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Program.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Program.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:23:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Revenue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Revenue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Revenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:24:47.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Revenue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Revenue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Revenue.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:25:22.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Payments.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Payments.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAowLEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:43:09.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Payments.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:43:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Payments.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Payments.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Payments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:02:33.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orders.resx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.resx",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Orders.resx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.resx",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Orders.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-21T13:23:30.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Revenue.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Revenue.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Revenue.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Revenue.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:28:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Orders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.cs [Design]",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:01:22.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Orders.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Orders.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:41:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Dashboard.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:54:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Users.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.Designer.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Users.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.Designer.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Users.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:08:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Users.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Users.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:07:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.cs",
+              "RelativeDocumentMoniker": "ecomm_track_edp_proj\\Orders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ecomm_track_edp_proj\\ecomm_track_edp_proj\\Orders.cs",
+              "RelativeToolTip": "ecomm_track_edp_proj\\Orders.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:41:42.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
